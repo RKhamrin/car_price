@@ -5,4 +5,4 @@
 ## Проблемы и перспективы
 ## Скриншоты работы сервиса 
 
-![alt text](https://github.com/RKhamrin/car_price_prediction/blob/main/predict_item_query.jpg?raw=true)
+![alt text](pictures/predict_item_Curl.png)
